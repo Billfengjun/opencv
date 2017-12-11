@@ -1,5 +1,4 @@
-How does a program read the cvMat object, in particular, what is the order of the pixel structure?
-asdqwe
+## How does a program read the cvMat object, in particular, what is the order of the pixel structure?
 
 We can access these pixel values using the cvMatName.at(x,y), where x=0, y=0 will be the top left entry of the matrix.
 
